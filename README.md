@@ -1,6 +1,6 @@
-
 # IPL Dashboard
-
+------
+![Header](./Dashboard.png)
 This repository hosts the source code for an interactive IPL (Indian Premier League) Dashboard built using PowerBI. The dashboard provides real-time updates on ongoing matches, including live scores, batting and bowling statistics for both teams, and the points table. 
 
 ## Overview
@@ -18,7 +18,8 @@ The IPL Dashboard offers cricket enthusiasts a comprehensive view of the tournam
 - **Cricbuzz Cricket API:** Provides live cricket scores, player statistics, and other cricket-related data.
 
 ## Screenshots 📸
-![Dashboard Preview](screenshots/dashboard.png)
+![Header](./PointsTable.png)
+![Header](./ScoreCard.png)
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
